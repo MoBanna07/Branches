@@ -1,0 +1,15 @@
+D:\GUC\Reiz\Branch\Branch\obj\Debug\net6.0\Branch.csproj.AssemblyReference.cache
+D:\GUC\Reiz\Branch\Branch\obj\Debug\net6.0\Branch.GeneratedMSBuildEditorConfig.editorconfig
+D:\GUC\Reiz\Branch\Branch\obj\Debug\net6.0\Branch.AssemblyInfoInputs.cache
+D:\GUC\Reiz\Branch\Branch\obj\Debug\net6.0\Branch.AssemblyInfo.cs
+D:\GUC\Reiz\Branch\Branch\obj\Debug\net6.0\Branch.csproj.CoreCompileInputs.cache
+D:\GUC\Reiz\Branch\Branch\bin\Debug\net6.0\Branch.exe
+D:\GUC\Reiz\Branch\Branch\bin\Debug\net6.0\Branch.deps.json
+D:\GUC\Reiz\Branch\Branch\bin\Debug\net6.0\Branch.runtimeconfig.json
+D:\GUC\Reiz\Branch\Branch\bin\Debug\net6.0\Branch.dll
+D:\GUC\Reiz\Branch\Branch\bin\Debug\net6.0\Branch.pdb
+D:\GUC\Reiz\Branch\Branch\obj\Debug\net6.0\Branch.dll
+D:\GUC\Reiz\Branch\Branch\obj\Debug\net6.0\refint\Branch.dll
+D:\GUC\Reiz\Branch\Branch\obj\Debug\net6.0\Branch.pdb
+D:\GUC\Reiz\Branch\Branch\obj\Debug\net6.0\Branch.genruntimeconfig.cache
+D:\GUC\Reiz\Branch\Branch\obj\Debug\net6.0\ref\Branch.dll
